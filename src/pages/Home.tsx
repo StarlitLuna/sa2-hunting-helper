@@ -431,7 +431,7 @@ const Home: Component<{settings: Settings}> = (props) => {
 					</h1>
 					<p>
 						Finally, if you have suggestions for improving this tool's usage, or you'd like to contribute hunting knowledge feel free
-						to open an issue on <a href="https://github.com/QueenSuzie/sa2-hunting-helper/issues" target="_blank">my github</a> with
+						to open an issue on <a href="https://github.com/StarlitLuna/sa2-hunting-helper/issues" target="_blank">my github</a> with
 						your suggestion(s) and I'll try to respond as soon as I can. With that said, good luck with your runs, and I hope this tool
 						helps you achieve your goals!
 					</p>
